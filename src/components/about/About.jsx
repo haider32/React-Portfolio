@@ -24,19 +24,20 @@ const About = () => {
         <article className='about__card'> 
         <FaAward className='about__icon'/>
         <h5>Exertise</h5>
-        <small>Mern Stack</small>
+        <small>Java </small>
+        <small>& Mern </small>
         </article>
 
         <article className='about__card'> 
         <FiUsers className='about__icon'/>
-        <h5>Clients</h5>
-        <small>100+ Clients</small>
+        <h5>Projects</h5>
+        <small>50+ projects</small>
         </article>
 
         <article className='about__card'> 
         <RiFolderChartLine className='about__icon'/>
-        <h5>Experience</h5>
-        <small>Over 1 year</small>
+        <h5>BCA</h5>
+        <small> Graduate </small>
         </article>
       </div>
     

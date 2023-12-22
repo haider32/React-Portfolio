@@ -18,16 +18,16 @@ const data =[
 {
   id: 2,
   image: IMG2,
-  title: 'soon',
-  github: 'http//github.com',
-  demo: 'http:google.com'
+  title: 'Chat-App',
+  github: 'https://github.com/haider32/Chat_Application',
+  demo: 'https://chat-app-reactjs-haider.netlify.app/'
 },
 {
   id: 3,
   image: IMG3,
-  title: 'soon',
-  github: 'http//github.com',
-  demo: 'http:google.com'
+  title: 'Transformo',
+  github: 'https://github.com/haider32/Transformo',
+  demo: 'https://transformo.netlify.app/'
 },
 {
   id: 4,
