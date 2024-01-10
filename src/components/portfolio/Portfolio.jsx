@@ -32,16 +32,16 @@ const data =[
 {
   id: 4,
   image: IMG4,
-  title: 'soon',
-  github: 'http//github.com',
-  demo: 'http:google.com'
+  title: 'Yammy Yard',
+  github: 'https://github.com/haider32/YammyYard',
+  demo: 'https://yummyyard.netlify.app/'
 },
 {
   id: 5,
   image: IMG5,
-  title: 'soon',
-  github: 'http//github.com',
-  demo: 'http:google.com'
+  title: 'Bad-Jokes',
+  github: 'https://github.com/haider32/Bad-Jokes',
+  demo: 'https://bad-jokes-hazel.vercel.app/'
 },
 {
   id: 6,
