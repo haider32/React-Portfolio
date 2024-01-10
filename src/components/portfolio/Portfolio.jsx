@@ -46,9 +46,9 @@ const data =[
 {
   id: 6,
   image: IMG6,
-  title: 'soon',
-  github: 'http//github.com',
-  demo: 'http:google.com'
+  title: 'FeedBack-UI',
+  github: 'https://github.com/haider32/Feedback-UI',
+  demo: 'https://feedback-ui-main.netlify.app/'
 }
 ]
 
